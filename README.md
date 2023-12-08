@@ -5,23 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Giới Thiệu Bản Thân</title>
     <!-- Primary Meta Tags -->
-    <title>Cuongbok - Giới Thiệu Bản Thân</title>
-    <meta name="title" content="Cuongbok - Giới Thiệu Bản Thân" />
+    <title>Nguyễn Danh Duy - Giới Thiệu Bản Thân</title>
+    <meta name="title" content="Nguyễn Danh Duy - Giới Thiệu Bản Thân" />
     <meta name="description" content="Hello mn mình là " />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://ngcuongbok.github.io/it-clb-profile/" />
-    <meta property="og:title" content="Cuongbok - Giới Thiệu Bản Thân" />
+    <meta property="og:title" content="Danh Duy - Giới Thiệu Bản Thân" />
     <meta property="og:description" content="Hello mn mình là " />
-    <meta property="og:image" content="https://i.imgur.com/eEJXydP.jpg" />
+    <meta property="og:image" content="https://i.imgur.com/6OMQIc2.jpg" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://ngcuongbok.github.io/it-clb-profile/" />
-    <meta property="twitter:title" content="Cuongbok - Giới Thiệu Bản Thân" />
+    <meta property="twitter:title" content="Danh Duy - Giới Thiệu Bản Thân" />
     <meta property="twitter:description" content="Hello mn mình là " />
-    <meta property="twitter:image" content="https://i.imgur.com/eEJXydP.jpg" />
+    <meta property="twitter:image" content="https://i.imgur.com/6OMQIc2.jpg" />
 
     <!-- Meta Tags Generated with https://metatags.io -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -109,9 +109,9 @@
     <section>
         <img id="profile-img" src="https://i.imgur.com/eEJXydP.jpg" alt="Profile Image">
         <div class="social-links">
-            <a href="https://www.facebook.com/cuongbok" target="_blank"><i class="fab fa-facebook"></i></a>
-            <a href="https://www.instagram.com/cuongbok" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.tiktok.com/@cuongbokreal" target="_blank"><i class="fab fa-tiktok"></i></a>
+            <a href="https://www.facebook.com/nguyendanhduy05" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.instagram.com/nguyen_danh_duy" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.tiktok.com/@nguyendanhduy" target="_blank"><i class="fab fa-tiktok"></i></a>
         </div>
         <p class="description">Xin chào! Tôi là [Cuongbok], một người yêu thích codep. Hãy cùng khám phá hành trình của tôi!</p>
     </section>
