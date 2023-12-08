@@ -11,14 +11,14 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://ngcuongbok.github.io/it-clb-profile/" />
+    <meta property="og:url" content="https://linkbio.co/nguyendanhduy" />
     <meta property="og:title" content="Nguyễn Danh Duy - Giới Thiệu Bản Thân" />
     <meta property="og:description" content="Hello mn mình là " />
     <meta property="og:image" content="https://i.imgur.com/6OMQIc2.jpg" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://ngcuongbok.github.io/it-clb-profile/" />
+    <meta property="twitter:url" content="https://linkbio.co/nguyendanhduy" />
     <meta property="twitter:title" content="Nguyễn Danh Duy - Giới Thiệu Bản Thân" />
     <meta property="twitter:description" content="Hello mn mình là " />
     <meta property="twitter:image" content="https://i.imgur.com/6OMQIc2.jpg" />
